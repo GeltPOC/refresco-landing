@@ -109,7 +109,7 @@ export default function Home() {
               <span className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
               Nuevo sabor disponible
             </div>
-            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-tight drop-shadow-md mb-6">
+            <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-red-600 leading-tight drop-shadow-md mb-6">
               hola esto es un test
             </h1>
             <p className="text-lg sm:text-xl text-white/90 mb-8 max-w-lg mx-auto lg:mx-0 leading-relaxed">
