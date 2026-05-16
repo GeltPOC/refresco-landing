@@ -110,11 +110,7 @@ export default function Home() {
               Nuevo sabor disponible
             </div>
             <h1 className="text-5xl sm:text-6xl lg:text-7xl font-black text-white leading-tight drop-shadow-md mb-6">
-              El refresco que
-              <br />
-              <span className="text-transparent bg-clip-text bg-gradient-to-r from-white to-white/60">despierta</span>
-              <br />
-              tus sentidos
+              hola esto es un test
             </h1>
             <p className="text-lg sm:text-xl text-white/90 mb-8 max-w-lg mx-auto lg:mx-0 leading-relaxed">
               FreshBurst combina sabores naturales explosivos con vitaminas esenciales. Refrescante, sin azúcar y lleno de vida.
